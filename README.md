@@ -10,13 +10,13 @@ The purpose of this analysis is to determine the suitability of the weather in O
 - Temperature observations for both months are also very consistent; in both months, the 25% percentile and 75% percentile are well within 1 standard deviation from the mean, i.e. for both months, at least 50% of temperature observations are within 1 standard deviation of the mean.
 - As may be expected, December is cooler than June, with a mean that 3 degrees below June, and a mininum that sinks to 56 degrees.
 
-![june summary](Resources/june_summary.png)
-
 Statistical summary for June temperature observations (2010-2017)
 
-![december summary](Resources/december_summary.png)
+![june summary](Resources/june_summary.png)
 
 Statistical summary for December temperature observations (2010-2016)
+
+![december summary](Resources/december_summary.png)
 
 ## Summary
 
